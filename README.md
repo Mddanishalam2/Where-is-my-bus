@@ -91,7 +91,7 @@ Update backend URL in Arduino code
 
 # 🔗 Backend: https://bus-backend-vnxc.onrender.com
 
-# 🔗 Frontend: https://your-frontend-link.com
+# 🔗 Frontend: https://whereismybus-ten.vercel.app
 ------------------------------------------------------------
 # 🔐 Authentication
 
