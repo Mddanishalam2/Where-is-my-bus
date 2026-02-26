@@ -15,8 +15,6 @@ app.use((req, res, next)=>{
     next()
 })
 
-
-
 // Receive GPS data from Arduino
 app.post('/', (req, res) => {
     const { latitude, longitude } = req.body;
