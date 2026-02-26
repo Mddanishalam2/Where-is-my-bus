@@ -144,7 +144,7 @@ export default function Dashboard() {
             <div className="route-icon">🗺️</div>
             <div className="route-info">
               <div className="route-label">YOUR ACTIVE ROUTE</div>
-              <div className="route-text">Kalka → AIRPORT Pinjore → Chitkara university</div>
+              <div className="route-text">Kalka → Pinjore → Chitkara university</div>
             </div>
             <div className="route-arrow">›</div>
           </div>
