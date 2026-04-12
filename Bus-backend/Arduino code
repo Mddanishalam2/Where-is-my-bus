@@ -1,8 +1,8 @@
 #include <SoftwareSerial.h>
 SoftwareSerial gsm(10, 11); // RX, TX
 
-String latitude = "30.7333";
-String longitude = "76.7794";
+String latitude = "";
+String longitude = "";
 
 void setup() {
   gsm.begin(9600);
